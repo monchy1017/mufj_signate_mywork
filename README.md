@@ -1,6 +1,5 @@
 # mufj_signate_mywork
 
-mufj の SIGNATE コンペ用リポジトリ(コンペ終了後公開)
 
 ## 進捗
 
